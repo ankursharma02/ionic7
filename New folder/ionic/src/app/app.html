@@ -1,0 +1,57 @@
+<ion-menu   [content]="content">
+
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>
+        <button ion-button menuClose> <ion-icon item-left name="md-arrow-back"></ion-icon></button>
+      Pages
+      </ion-title>
+      
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>
+    <ion-list>
+      <button ion-item *ngFor="let p of pages" (click)="openPage(p)">
+        {{p.title}}
+      </button>
+    </ion-list>
+  </ion-content>
+
+</ion-menu>
+
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false">
+
+  
+    
+  </ion-nav>
+
+
+<!-- <page-hello-ionic></page-hello-ionic> -->
+<!-- <page-mynewpage></page-mynewpage> -->
+
+<!-- <page-radiodemo></page-radiodemo> -->
+<!-- <page-checkboxdemo></page-checkboxdemo> -->
+<!-- <page-badgessdemo></page-badgessdemo> -->
+<!-- <page-buttondemo></page-buttondemo> -->
+<!-- <page-clearbuttondemo></page-clearbuttondemo> -->
+<!-- <page-componentbutton></page-componentbutton> -->
+<!-- <page-basiccard></page-basiccard> -->
+<!-- <page-listcard></page-listcard> -->
+<!-- <page-backgroundimgcard></page-backgroundimgcard> -->
+<!-- <page-mapcard></page-mapcard> -->
+<!-- <page-datetimedemo></page-datetimedemo> -->
+<!-- <page-fabs></page-fabs> -->
+<!-- <page-gesturedemo></page-gesturedemo> -->
+<!--  <page-griddemo></page-griddemo>  -->
+<!-- <page-gesturedemo></page-gesturedemo> --> 
+<!-- <page-griddemo></page-griddemo> -->
+<!-- <page-icondemo></page-icondemo> -->
+<!-- <page-inputdemo></page-inputdemo> -->
+<!-- <page-listdemoo></page-listdemoo> -->
+<!-- <page-loadingdemo></page-loadingdemo> -->
+<!-- <app-menudemo></app-menudemo> -->
+<!-- <page-modaldemo></page-modaldemo> -->
+<!-- <page-navdemo></page-navdemo>
+ 
+<nav_page></nav_page> -->

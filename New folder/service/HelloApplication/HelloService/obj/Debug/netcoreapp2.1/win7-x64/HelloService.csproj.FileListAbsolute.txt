@@ -1,0 +1,14 @@
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\obj\Debug\netcoreapp2.1\win7-x64\HelloService.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\obj\Debug\netcoreapp2.1\win7-x64\HelloService.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\obj\Debug\netcoreapp2.1\win7-x64\HelloService.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\obj\Debug\netcoreapp2.1\win7-x64\HelloService.csprojAssemblyReference.cache
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\HelloService.exe
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\HelloService.deps.json
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\HelloService.runtimeconfig.json
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\HelloService.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\HelloService.dll
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\bin\Debug\netcoreapp2.1\win7-x64\HelloService.pdb
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\obj\Debug\netcoreapp2.1\win7-x64\HelloService.dll
+D:\C#pro\servicefab_demo1\HelloApplication\HelloService\obj\Debug\netcoreapp2.1\win7-x64\HelloService.pdb

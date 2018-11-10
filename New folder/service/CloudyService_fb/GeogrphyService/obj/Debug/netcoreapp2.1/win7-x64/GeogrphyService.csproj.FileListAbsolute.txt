@@ -1,0 +1,16 @@
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\GeogrphyService.exe
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\GeogrphyService.deps.json
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\GeogrphyService.runtimeconfig.json
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\GeogrphyService.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\GeogrphyService.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.RazorAssemblyInfo.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.RazorAssemblyInfo.cs
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.RazorTargetAssemblyInfo.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\bin\Debug\netcoreapp2.1\win7-x64\GeogrphyService.pdb
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\GeogrphyService\obj\Debug\netcoreapp2.1\win7-x64\GeogrphyService.pdb

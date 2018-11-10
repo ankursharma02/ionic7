@@ -1,0 +1,16 @@
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.exe
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.deps.json
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.json
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.pdb
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cs
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorTargetAssemblyInfo.cache
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+D:\C#pro\servicefab_demo1\CloudyService_fb\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.pdb

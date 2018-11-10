@@ -1,0 +1,1 @@
+D:\C#pro\servicefab_demo1\HelloApplication\HelloApplication\obj\x64\Debug\HelloApplication.sfproj.CoreCompileInputs.cache
